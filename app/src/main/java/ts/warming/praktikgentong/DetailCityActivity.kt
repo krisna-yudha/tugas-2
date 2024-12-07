@@ -33,4 +33,5 @@ class DetailCityActivity : AppCompatActivity() {
         if (cityImageResId != 0) {
             ivCity.setImageResource(cityImageResId)
         }
-    }}
+    }
+}
